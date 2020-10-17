@@ -9,10 +9,7 @@
 
 
 ## Clone
-
-![clone](https://user-images.githubusercontent.com/29935993/44450483-b3237b00-a60e-11e8-85c4-eb7d81c3c0da.png)
-
-![capture](https://user-images.githubusercontent.com/29935993/44450799-74da8b80-a60f-11e8-9cc1-198c6d560012.PNG)
+Clone the repo in your local system.
 
 
 ## Add, Commit, Push
