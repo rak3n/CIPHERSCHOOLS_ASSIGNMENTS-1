@@ -4,10 +4,7 @@
 
 ## Fork
 
-* Go to [Hacktoberfest18](https://github.com/ambujraj/hacktoberfest18/) and click on the fork button as shown in the image to fork the repository to your account.
-
-
-![capture](https://user-images.githubusercontent.com/29935993/44449918-1c09f380-a60d-11e8-95aa-461c97ef4565.PNG)
+* Go to [Hacktoberfest18](https://github.com/SaileshVerma/CIPHERSCHOOLS_ASSIGNMENTS) and click on the fork button as shown in the image to fork the repository to your account.
 
 
 ## Clone
